@@ -11,10 +11,10 @@ Welcome to my GitHub! I am a Staff Software Engineer with 8.5+ years of experien
 - **Cloud & Infrastructure:** AWS, GCP, Distributed Systems
 - **Backend & Frameworks:** Spring Boot, Microservices, Elasticsearch, REST APIs
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects & Innovations
 - **[LiveRamp Cleanroom Platform](https://liveramp.com)**: Leading technical strategy for a governed analytics platform enabling real-time SQL execution on shared datasets while maintaining strict data privacy across Snowflake, Databricks, and BigQuery.
 - **[Dr. Raj Homoeo Pharmacy](https://www.drrajhomoeo.com/)**: A live e-commerce and informational web platform for a homeopathic pharmacy, built using Java.
-- **[Digital-GSRTC](https://github.com/sharvil1996/Digital-GSRTC)**: A web platform for booking bus tickets and generating passes anytime, anywhere.
+- **Identity Interoperability Framework**: Co-invented a runtime identity transcoding framework (patent-pending) enabling privacy-preserving analytics across organizations without exposing sensitive identifiers.
 
 ### 📈 GitHub Stats
 ![Sharvil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharvil1996&show_icons=true&theme=radium)
